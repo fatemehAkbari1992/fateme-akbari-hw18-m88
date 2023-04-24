@@ -1,0 +1,38 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: url("../images/n-kamalov-IyffE4SWpmg-unsplash.jpg") no-repeat
+    center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.card {
+  background-color: bisque;
+  width: 60%;
+  margin: auto;
+  padding-left: 3rem;
+}
+
+.sub-btn{
+  background-color: #f1c559 !important;
+  color:#022932 !important;
+}
+.text-initial{
+  text-align: initial;
+}
+
+.gender-select{
+  margin-right: 3rem;
+}
+
+.profile-card{
+  width:30rem !important
+}
+
+.title-name{
+  color: blue;
+  font-style: italic;
+}
